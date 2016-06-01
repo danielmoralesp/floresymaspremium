@@ -1,0 +1,1 @@
+window.addEvent("domready",function(){var e=$$(".color-picker");e&&_.each(e,function(e){var t=e.getElement(".product-shot"),o=e.getElements(".colors span");o.addEvent("mouseover",function(){var e=(this.get("class"),this.get("data-preload-image"));t.get("src")!==e&&t.set("src",e)})})});

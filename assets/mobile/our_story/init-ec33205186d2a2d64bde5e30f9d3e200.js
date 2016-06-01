@@ -1,0 +1,1 @@
+window.addEvent("domready",function(){var e=document.getElement(".graph");window.addEvent("scroll",function(){var t=window.getScrollTop(),i=window.getSize().y,n=e.getPosition().y,s=t+.75*i>=n,o=e.hasClass("active");s&&!o&&e.addClass("active")})});

@@ -1,0 +1,5 @@
+[06-Aug-2015 08:58:08 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ebaniste/public_html/floresymaspremium.com/conexion.php on line 2
+[06-Aug-2015 08:58:08 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/conexion.php on line 3
+[06-Aug-2015 08:58:08 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/index2.php on line 63
+[06-Aug-2015 08:58:08 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ebaniste/public_html/floresymaspremium.com/index2.php on line 64
+[11-Oct-2015 10:26:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ebaniste/public_html/floresymaspremium.com/carrito-m.php:1) in /home/ebaniste/public_html/floresymaspremium.com/carrito-m.php on line 2

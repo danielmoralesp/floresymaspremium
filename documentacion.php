@@ -1,0 +1,3 @@
+- debo traer en detalles-perfil los datos de la base de datos para poderlos modificar
+- como integro el checkput con los usuarios
+- como asignarle a un mismo usuario varias compras? debo relacionar ambas tables: pedidos y usuarios

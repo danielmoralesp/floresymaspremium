@@ -1,0 +1,26 @@
+#php_value error_reporting 2
+#php_flag display_errors On
+
+<IfModule mod_suphp.c>
+	suPHP_ConfigPath /home/ebaniste/php.ini
+	<Files php.ini>
+		order allow,deny
+		deny from all
+	</Files>
+</IfModule>
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html
+
+#RewriteEngine on 
+#RewriteRule ^arreglo-floral-(\w+)/?$ project.php?nom_pila=$1
+
+#RewriteEngine on 
+#RewriteRule ^id-(\w+)/?$ blog_post.php?id_blog=$1

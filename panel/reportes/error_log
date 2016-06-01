@@ -1,0 +1,154 @@
+[18-Aug-2015 17:27:07 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels.php on line 145
+[18-Aug-2015 17:31:25 America/Chicago] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 44
+[18-Aug-2015 17:31:25 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/php54/lib/php') in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 44
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 93
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 138
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 151
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 164
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 176
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 189
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 191
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 202
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 215
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 234
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 298
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 343
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 356
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 369
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 381
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 394
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 396
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 407
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 420
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 439
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 520
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 571
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 583
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 594
+[18-Aug-2015 17:32:58 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 609
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 93
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 138
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 151
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 164
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 176
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 189
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 191
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 202
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 215
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 234
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 298
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 343
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 356
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 369
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 381
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 394
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 396
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 407
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 420
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 439
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 520
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 571
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 583
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 594
+[18-Aug-2015 17:58:27 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 609
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 93
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 138
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 151
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 164
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 176
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 189
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 191
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 202
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 215
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 234
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 298
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 343
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 356
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 369
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 381
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 394
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 396
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 407
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 420
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 439
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 520
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 571
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 583
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 594
+[18-Aug-2015 18:04:30 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 609
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 93
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 138
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 151
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 164
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 176
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 189
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 191
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 202
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 215
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 234
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 298
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 343
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 356
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 369
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 381
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 394
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 396
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 407
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 420
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 439
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 520
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 571
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 583
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 594
+[18-Aug-2015 18:05:08 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 609
+[18-Aug-2015 18:19:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 642
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 111
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 132
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 145
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 158
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 170
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 183
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 185
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 196
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 209
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 228
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 292
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 337
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 350
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 363
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 375
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 388
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 390
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 401
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 414
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 433
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 514
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 565
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 577
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 588
+[18-Aug-2015 18:19:44 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 603
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 111
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 132
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 145
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 158
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 170
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 183
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 185
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 196
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 209
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 228
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 292
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 337
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 350
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 363
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 375
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 388
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 390
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 401
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 414
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 433
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 514
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 565
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 577
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 588
+[18-Aug-2015 18:57:57 America/Chicago] PHP Warning:  Division by zero in /home/ebaniste/public_html/floresymaspremium.com/panel/reportes/funnels-dia.php on line 603

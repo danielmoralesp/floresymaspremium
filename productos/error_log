@@ -1,0 +1,6 @@
+[13-Aug-2015 15:03:25 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/ebaniste/public_html/floresymaspremium.com/productos/producto.php on line 208
+[13-Aug-2015 15:05:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ebaniste/public_html/floresymaspremium.com/productos/producto.php on line 119
+[13-Aug-2015 15:09:12 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/ebaniste/public_html/floresymaspremium.com/productos/producto.php on line 32
+[13-Aug-2015 15:13:08 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/ebaniste/public_html/floresymaspremium.com/productos/producto.php on line 148
+[10-Oct-2015 22:00:13 America/Chicago] PHP Warning:  require_once(instancias/header-m.php): failed to open stream: No such file or directory in /home/ebaniste/public_html/floresymaspremium.com/productos/producto-m.php on line 59
+[10-Oct-2015 22:00:13 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'instancias/header-m.php' (include_path='.:/opt/php54/lib/php') in /home/ebaniste/public_html/floresymaspremium.com/productos/producto-m.php on line 59
